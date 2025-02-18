@@ -1,0 +1,14 @@
+{
+  "name": "enter-your-bot-name",
+  "version": "1.0.0",
+  "description": "Enter your bot description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eneter ur author",
+  "license": "Creaty by JustKetus, for using in private projects",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
